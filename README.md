@@ -1,4 +1,4 @@
-# Online Snacks Delivery Service😋
+# Online Snacks Delivery Service😋 [Frontend]
 
 This repository contains the front-end code for the **Online Snacks Delivery Service** website, developed during a 15-day internship at VILSA Technology. The project includes the following pages:
 
